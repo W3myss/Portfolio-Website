@@ -370,8 +370,9 @@ header {
         position: relative;
         left: -1em;
         width: calc(100% + 2em);
-        padding-left: 1em;
+        padding-left: 10em;
         padding-right: calc(200px + 4em);
+        text-align: center;
     }
     
     .about-me__img {
